@@ -8,3 +8,4 @@ Launcher for Pegasus FrontEnd (Windows) with immersive black screen to cover des
     * Use offsets in the ini file to move it.
     * Negative values move up & left.
     * Positive values move down & right
+* Overwrite logo.png to use your own image
