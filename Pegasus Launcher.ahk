@@ -5,7 +5,7 @@
 SetBatchLines -1
 DetectHiddenWindows, On
 SetWorkingDir, % A_ScriptDir
-FileInstall, logo.png, logo.png
+FileInstall, logo.png, logo.png, 0
 
 
 pToken := Gdip_Startup()
